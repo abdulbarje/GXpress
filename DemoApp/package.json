@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "knock-knock-jokes": "^1.7.0",
+    "require-stack": "^1.0.2"
+  }
+}
