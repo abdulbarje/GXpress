@@ -18,6 +18,13 @@ body {
   font-family: Nunito, sans-serif;
 }
 
+
+  .container{
+    margin: 0%;
+    width: 60%;
+    text-align: center;
+    font-size: 10px;
+  }
 /* --- Navigation Menu ------------------------------ */
 
 /* Overlay */
